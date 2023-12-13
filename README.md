@@ -1,1 +1,3 @@
-# Integrador-python-Digitalmmind
+<h2 align="center">Integrador Juegos </h2>
+
+![Texto Alternativo](logo.jpg)
